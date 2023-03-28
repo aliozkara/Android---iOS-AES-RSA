@@ -1,6 +1,6 @@
 # MobileRsaAes-Sample
 
-Android & iOS Equivalent RSA AES Encryption
+Equivalent RSA AES Encryption Android & iOS
 
 Encrypting data with RSA using the Electronic Codebook (ECB) mode of operation and PKCS1 padding.
 
